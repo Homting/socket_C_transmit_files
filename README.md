@@ -7,7 +7,7 @@ Usage
 =======================
 Fistly, you need to execute "./file_server"
 Then, you can "./file_client hostname"
-Next, you may input "lijin13111082"
+Next, you may input "lijin"
 Finally, you can get the files in server computer.
 
 Ps: the files must in the file_server catalogue.
