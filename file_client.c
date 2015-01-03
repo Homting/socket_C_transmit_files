@@ -79,7 +79,7 @@ int main(int argc, char **argv)
     char name[FILE_NAME_MAX_SIZE + 1];
     char nameback[FILE_NAME_MAX_SIZE + 1];
     bzero(name, sizeof(name));
-    printf("Please Input your Name and number(default \"lijin13111082\")\n");
+    printf("Please Input your Name and number(default \"lijin\")\n");
     scanf("%s", name);
     write(client_socket,name,strlen(name));
     if(read(client_socket,nameback,FILE_NAME_MAX_SIZE)==-1)
