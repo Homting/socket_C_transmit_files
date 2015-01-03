@@ -15,7 +15,7 @@
 #define LENGTH_OF_LISTEN_QUEUE     20
 #define BUFFER_SIZE                1024
 #define FILE_NAME_MAX_SIZE         512
-#define NAME "lijin13111082"
+#define NAME "lijin"
 int main(int argc, char **argv)
 {
 	// set socket's address information
